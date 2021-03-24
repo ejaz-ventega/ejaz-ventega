@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ejaz Siddiqui
 - 🌱 Currently working on Javascript and JAMStack projects.
-- 💞️ I’m looking to excellent React.js Developers
+- 💞️ I’m looking for excellent React.js Developers
 - 📫 Drop your CV at ejaz@vintegasolutions.com
 
 <!---
